@@ -1,0 +1,17 @@
+﻿body
+{
+
+    height:100vh;
+    display:grid;
+    place-items:center;
+    overflow-y:hidden;
+    background-color:blue;
+}
+.timer{
+    background-color:aqua;
+    padding:10px;
+    font-size:100px;
+    border-radius:8px;
+    color:black;
+
+}
